@@ -1,7 +1,7 @@
 Demo link: https://post-it-7736d.web.app/
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run
 
 ### `npm start`
 
